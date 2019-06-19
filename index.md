@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jian Yang Lum's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jian Yang Lum
+Machine Learning Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="isaac@applesdofall.org">jian.yang.lum@gmail.com</a>
+| <a href="https://jianyanglum.github.io/">My personal writings and projects</a>
 </div>
 
 
@@ -27,8 +27,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016-2017`
+__Stanford University, M.S. Statistics__
+
+- GPA 3.91 / 4
+- Sample
 
 `June 1661 - now`
 __Trinity College, Cambridge__
